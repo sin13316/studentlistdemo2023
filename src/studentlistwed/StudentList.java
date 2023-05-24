@@ -30,6 +30,7 @@ public class StudentList
             System.out.println(s.getName());
             System.out.println(s.getStudentNumber());
             System.out.println(s.isFullTime());
+            System.out.println("hello world");
         }
         
        
